@@ -16,4 +16,11 @@ p {
     color: rgb(100, 0, 127);
     /* hsl example: */
     color: hsl(15, 82%, 56%);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center
+  }
+
+  img {
+    width: auto;
+    height: 500px;
   }
