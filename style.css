@@ -4,3 +4,16 @@ a {
     color: black;
 }
 
+div {
+    color: purple;
+}
+
+
+p {
+    /* hex example: */
+    color: #1100ff;
+    /* rgb example: */
+    color: rgb(100, 0, 127);
+    /* hsl example: */
+    color: hsl(15, 82%, 56%);
+  }
